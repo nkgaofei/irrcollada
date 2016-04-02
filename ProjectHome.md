@@ -1,0 +1,1 @@
+collada 1.4 format for Irrlicht Engine new animation system support.
